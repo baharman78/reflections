@@ -1,0 +1,8 @@
+1.	What happens when you initialize a repository? Why do you need to
+it?
+
+All your files show up as not tracked.  This needs to be done so that
+you can choose which items should be tracked.  You might have contents in the
+folder you might not want tracked, because it will never change from
+revision to revision of code.  This also keeps the software from allocating
+space for these items that will never change in the repository everytime you commit.
