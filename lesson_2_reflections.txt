@@ -40,3 +40,13 @@ incorporate it into the master commit.
 
 It physically shows the structure your repository commits are taking, and
 helps you keep track of all of your branches.
+
+6.  What is the result of merging two branches together?  Why do we represent
+it in the diagram the way we do?
+
+The result of a merge is every new piece of code from both branches, and every
+section of code that has been removed from the two branches.  If there is
+changed code in both branches, then they are both included in the resulting
+merged file.  This allows you to choose which piece of code to use.
+This is done by comparing to the last mutual parent of both commits.  The
+diagram is representing how the commits are connected together.
