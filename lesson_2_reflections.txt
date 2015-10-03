@@ -19,3 +19,11 @@ location for choosing which files from the working directory to the
 repository.  This is valuable, because you can commit part of the files if you
 mess up on one file.  Then you can recheck out the master without worrying
 about missing anything you might have changed.
+
+3.  How can you use the staging area to make sure you have one commit per
+logical change?
+
+You can use the git diff --staged command to see the changes in between the
+original commit, and the modified files in the staging area.  This will allow
+you to verify whether or not you have made only enough changes for a logical
+change.  Then you can commit it to the repository.
