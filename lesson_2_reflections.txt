@@ -50,3 +50,10 @@ changed code in both branches, then they are both included in the resulting
 merged file.  This allows you to choose which piece of code to use.
 This is done by comparing to the last mutual parent of both commits.  The
 diagram is representing how the commits are connected together.
+
+7.  What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+
+Git's Automatic Merging doesn't have any cons.  If there are any merge conflicts
+, then it will show the differences in both branches being merged.  Manual
+merging just takes more time.
