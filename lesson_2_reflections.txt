@@ -27,3 +27,11 @@ You can use the git diff --staged command to see the changes in between the
 original commit, and the modified files in the staging area.  This will allow
 you to verify whether or not you have made only enough changes for a logical
 change.  Then you can commit it to the repository.
+
+4.  What are some situations when branches would be helpful in keeping your
+history organized?  How would branches help?
+
+Branches would be helpful if you are testing new features, and you don't want
+to modified the original in case you don't want to incorporate the changes.
+This will allow you to better organize unpolished code until you can
+incorporate it into the master commit.
