@@ -35,3 +35,8 @@ Branches would be helpful if you are testing new features, and you don't want
 to modified the original in case you don't want to incorporate the changes.
 This will allow you to better organize unpolished code until you can
 incorporate it into the master commit.
+
+5.  How do diagrams help you visualize the branch structure?
+
+It physically shows the structure your repository commits are taking, and
+helps you keep track of all of your branches.
