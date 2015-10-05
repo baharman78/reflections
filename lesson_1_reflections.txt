@@ -4,8 +4,9 @@ Brent Harman
 1.	How could having easy access to the entire history of a file
 make you a more efficient programmer in the long term?
 
-It allows you to see the full programs life cycle, and avoids human
-error when allowing other programmers to see your revisions.
+It allows you to see the full programs life cycle, and it allows you to keep
+all previous code to potentially use it later.  This might include features
+that you might want to add in later.
 
 2.	What do you think are the pros and cons of manually choosing
 when to create a commit, like you do in Git, vs having versions
@@ -44,5 +45,5 @@ easily accessible.  I could always revert back to them if need be.
 6.	Now that you have your workspace set up, what do you want to
 try using Git for?
 
-I would like to use it to keep track of previous files, and allow
+I would like to use it to keep track of previous files. This will allow
 me to debug code faster without fear of completely breaking the code.
