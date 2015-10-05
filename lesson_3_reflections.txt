@@ -1,0 +1,6 @@
+1.  When would you want to use a remote repository rather than keeping all your work local?
+
+A remote repository could be used if you want to just make changes to non code files,
+such as the ReadMe file or a flow chart.  This way you wouldn't need your local
+machine to work on planning your code.  You could also just coordinate with other people working on
+on planning your open source project.
