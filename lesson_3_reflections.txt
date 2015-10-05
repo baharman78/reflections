@@ -12,3 +12,9 @@ automatically stay up-to-date with your remote repository?
 This could be problematic, because you could be making changes on your local
 machine that haven't been pushed to the remote repository.  If someone else did
 a push on your remote repository, then you would lose all of your work.
+
+3.  What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+This is beneficial, because then you know exactly what the state of the
+remote repository is before you try to run commands that might affect it.
