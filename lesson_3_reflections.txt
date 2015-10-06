@@ -26,3 +26,13 @@ If I would collaborate without Git or GitHub, then I would just use email to
 send code files back and forth.  GitHub is much easier to collaborate with
 someone else, and gives an easy way of keeping record of all changes.  There
 really isn't anything that would be harder by using Github and Git.
+
+5.  When would you want to make changes in a separate branch rather than
+directly in master?  What benefits does each approach have?
+
+You would want to make changes in a separate branch for any new features
+being added to the program, or if you are collaborating with other people.
+Separate branches make it easier for collaboraters to work on code, and it is
+great for testing new features.  The master branch can be used to directly
+change aspects of the program such as aesthetic components or bug
+fixes on already implemented features.
