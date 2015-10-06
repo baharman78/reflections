@@ -18,3 +18,11 @@ stored locally?
 
 This is beneficial, because then you know exactly what the state of the
 remote repository is before you try to run commands that might affect it.
+
+4.  How would you collaborate without using Git or GitHub?  What would be
+easier, and what would be harder?
+
+If I would collaborate without Git or GitHub, then I would just use email to
+send code files back and forth.  GitHub is much easier to collaborate with
+someone else, and gives an easy way of keeping record of all changes.  There
+really isn't anything that would be harder by using Github and Git.
